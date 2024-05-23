@@ -18,4 +18,4 @@ Hysteria 是一个功能丰富的，专为恶劣网络环境（如卫星网络�
 
 4、若要用 Hysteria 进行高速传输，请[增加系统 UDP 的接收和发送 buffer 大小](https://hysteria.network/zh/docs/optimizations/)。
 
-5、若网络极差推荐部署，相比 V2Ray 或 Xray 的 mKCP 应用加速明显，比 TUIC 还猛。
+5、若网络极差推荐部署，相比 V2Ray 或 Xray 的 mKCP 应用加速明显。
